@@ -1,18 +1,20 @@
 How to Login to Syw.accountonline.com Easily? Complete Step-by-Step Guide (2025)
 ===============================================================================
 
-.. raw:: html
 
-
-<div style="text-align:center; margin-top:20px; margin-bottom:20px;">
-<a href="https://syw.accountonline.com" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
-🔗 Go to SYW Login
-</a>
-</div>
   
 Managing your Shop Your Way (SYW) credit card online becomes much easier when you know how to use **syw.accountonline.com login** properly. Whether you want to check your balance, pay bills, download statements, or manage your card settings, this dedicated Citi-powered portal gives you full access to your credit card account.
 
 If you are a first-time user, or if you're having trouble logging in, this complete guide will walk you through everything — from signing in, recovering your username/password, registering your account, and troubleshooting common login issues.
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://syw.accountonline.com" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            🔗 Go to SYW Login
+        </a>
+    </div>
+
 
 What Is syw.accountonline.com Login?
 -----------------------------------
